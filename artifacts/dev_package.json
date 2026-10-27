@@ -4,11 +4,11 @@
 	"createdBy": "svein.gunnar.larsen@neptune-software.com",
 	"git": {
 		"remote": "https://github.com/sveingunnarlarsen/test-versions.git",
-		"branch": "master"
+		"branch": "develop"
 	},
 	"name": "TestVersionsGit",
 	"description": null,
-	"ver": "26.10.27.1154",
+	"ver": "26.10.27.1638",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
