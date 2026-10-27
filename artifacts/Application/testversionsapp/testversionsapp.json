@@ -35,7 +35,7 @@
 								{
 									"attribute": "text",
 									"grouping": "Properties",
-									"value": "version 1",
+									"value": "version 2",
 									"script": "",
 									"translation": []
 								}
@@ -60,7 +60,7 @@
 		"denylist": [],
 		"allowlist": []
 	},
-	"ver": "26.10.27.1159",
+	"ver": "26.10.27.1203",
 	"application": "testversionsapp",
 	"title": "",
 	"description": "",
