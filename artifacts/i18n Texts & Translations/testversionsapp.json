@@ -1,0 +1,24 @@
+{
+	"id": "b7655fd1-c2bd-41d8-ae19-5a6b6561b1a8",
+	"createdAt": "2026-10-27T10:59:20.323Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN",
+			"locale": "en"
+		}
+	],
+	"name": "testversionsapp",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "testversionsapp",
+	"ver": "26.10.27.1159",
+	"package": "68330874-0b1e-4260-aa4c-e535c2d0299d",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": []
+}
